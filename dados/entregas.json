@@ -1,9 +1,9 @@
 [
     {
-        "titulo": "CRUD Vagas e alteração de foto perfil estagiário/empregador e novo layout.",
-        "descricao": "Aplicação com CRUD de vagas e alteração nos layouts.",
-        "versao": "2.0 - 07/12/2018",
-        "linkDoc": "https://drive.google.com/open?id=1Bn7a7p094SyqvYN2AVlw0-a7exDk5Mv-"
+        "titulo": "Selecionar Candidatos, Pesquisa e filtros.",
+        "descricao": "Aplicação com funções pesquisa/filtros e seleção de Candidatos.",
+        "versao": "4.0 - 11/01/2019",
+        "linkDoc": "https://drive.google.com/drive/folders/1YhkDN4cjoPCnA61UdtKESVn-LcKTSznt?usp=sharing"
     }
 
 ]
